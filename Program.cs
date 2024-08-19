@@ -44,11 +44,11 @@ switch (result.Value.Mode) {
                         .ConfigureAwait(false);
                 }
                 catch (AuthenticationException e) when (e.Result is
-                                                            EResult.InvalidPassword
+                                                            EResult.AccessDenied
                                                             or EResult.AccountLogonDeniedVerifiedEmailRequired
                                                             or EResult.AccountLoginDeniedNeedTwoFactor
                                                             or EResult.AccountDisabled
-                                                            or EResult.AccountAccessDenied) {
+                                                            or EResult.InvalidPassword) {
                     await gdb.RemoveAccount(accountInfo);
                     Console.WriteLine($"{e.Result} for {downloader.Username}. Removed.");
                 }
