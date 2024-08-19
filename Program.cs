@@ -48,7 +48,7 @@ switch (result.Value.Mode) {
                                                             or EResult.AccountLogonDeniedVerifiedEmailRequired
                                                             or EResult.AccountLoginDeniedNeedTwoFactor
                                                             or EResult.AccountDisabled
-                                                            or EResult.AccessDenied) {
+                                                            or EResult.AccountAccessDenied) {
                     await gdb.RemoveAccount(accountInfo);
                     Console.WriteLine($"{e.Result} for {downloader.Username}. Removed.");
                 }
