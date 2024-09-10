@@ -1,11 +1,11 @@
 <div align="center">
 
-![ManifestHub](https://socialify.git.ci/ManifestHub/ManifestHub/image?description=1&font=Inter&forks=1&issues=1&language=1&name=1&owner=1&pulls=1&stargazers=1&theme=Auto)
+![ManifestHub](https://socialify.git.ci/ikun0014/ManifestHub/image?description=1&font=Inter&forks=1&issues=1&language=1&name=1&owner=1&pulls=1&stargazers=1&theme=Auto)
 
-![GitHub Repo Size](https://img.shields.io/github/repo-size/ManifestHub/ManifestHub?style=for-the-badge)
-[![GitHub Release (with filter)](https://img.shields.io/github/v/release/ManifestHub/ManifestHub?style=for-the-badge)](https://github.com/ManifestHub/ManifestHub/releases/latest)
-[![GitHub All Releases](https://img.shields.io/github/downloads/ManifestHub/ManifestHub/total?style=for-the-badge&color=violet)](https://github.com/ManifestHub/ManifestHub/releases)
-[![GitHub License](https://img.shields.io/github/license/ManifestHub/ManifestHub?style=for-the-badge)](https://github.com/ManifestHub/ManifestHub/blob/main/LICENSE)
+![GitHub Repo Size](https://img.shields.io/github/repo-size/ikun0014/ManifestHub?style=for-the-badge)
+[![GitHub Release (with filter)](https://img.shields.io/github/v/release/ikun0014/ManifestHub?style=for-the-badge)](https://github.com/ManifestHub/ManifestHub/releases/latest)
+[![GitHub All Releases](https://img.shields.io/github/downloads/ikun0014/ManifestHub/total?style=for-the-badge&color=violet)](https://github.com/ikun0014/ManifestHub/releases)
+[![GitHub License](https://img.shields.io/github/license/ikun0014/ManifestHub?style=for-the-badge)](https://github.com/ManifestHub/ManifestHub/blob/main/LICENSE)
 
 </div>
 
@@ -32,11 +32,11 @@
 
  ## Star 趋势图
 
- [![Stargazers over time](https://starchart.cc/ManifestHub/ManifestHub.svg)](https://starchart.cc/ManifestHub/ManifestHub)
+ [![Stargazers over time](https://starchart.cc/ikun0014/ManifestHub.svg)](https://starchart.cc/ikun0014/ManifestHub)
 
 
  ## 贡献者
 
- <a href="https://github.com/ManifestHub/ManifestHub/graphs/contributors">
-   <img src="https://contrib.rocks/image?repo=ManifestHub/ManifestHub" />
+ <a href="https://github.com/ikun0014/ManifestHub/graphs/contributors">
+   <img src="https://contrib.rocks/image?repo=ikun0014/ManifestHub" />
  </a>
