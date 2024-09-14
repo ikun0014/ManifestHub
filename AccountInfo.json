@@ -2,14 +2,16 @@
   "AccountName": "dktti511",
   "AccountPassword": "Xy7eFMLn5579cZCctfFC0w==",
   "RefreshToken": "LEYZm8afebJTUr7+IFaCIwQZD8xuM4h4u+wWnTKgfM+f6sjew1IHTvhPvt3/5+Y67NR39ibRRp/gXDXZB7/9qa4w9G1Bje0XyYSFGUCHv0odIXNz+BpYPLs+V6NcT5N3qeOVGar1RjwOxayD+dSjhdEhKaUoZnw5HpiOxe5YWqFk4mR1285yK7uucnRYlFPI79f7U/hNKhj74Rmic8+q8bL7rPwJ8qc+1bfoiu/H0MpcoxkSvBpn0eJtwiGj8yRd6q4I/S5BZPUcXaxJkvJb5lkq+a/kpZmh8vx80dF8h3C+P9Lwsb9M7GmCAqWcLZXDbM2947RP6JXoI2Lu15CZqjrcoI5i9eOAWHj2HMTE589picIXTH+W94CfmEyPxZ6Ll3mqtEOIKu3yLORPsmMc/DpYFomsIKBJmRXUcs0Q8uq43icwwd8t9q2+91mzrZntz2q3JaCQIawIoRwJaiYLqHZmAvAw1tVVfO+tjz9mNkL39YCFQmAg2njofdTxOA2ur2MUreEUqgmnVpBZnQGNHp0sJ7oSVXE4mL2/UnKeCNzk4RQtudZ8wKbovYjBIXZ0B6X8I7QimKdyt/OlMzieZ6TENxC5YqSDHo+x3BL3OsK8KeJMD/bgZKZm4vVNV2k11H4IsBw8rGTZxUSGaiMPmw==",
-  "LastRefresh": "2024-09-10T18:34:04.2332889+00:00",
+  "LastRefresh": "2024-09-14T08:31:03.8996592+00:00",
   "Index": "SPY2Q-JQUA",
   "AesEncrypted": true,
   "AesIV": "O9N3xsC/EflMRnrYoVxXYg==",
   "AppIds": [
+    70,
     105600,
     226620,
     245850,
+    254430,
     262060,
     282800,
     289070,
@@ -49,6 +51,7 @@
     582010,
     597260,
     622590,
+    635640,
     644560,
     674940,
     718570,
@@ -80,6 +83,7 @@
     1858301,
     1858305,
     1867630,
+    2071500,
     2358720,
     2828500
   ]
