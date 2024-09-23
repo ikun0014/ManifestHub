@@ -9,7 +9,7 @@ on:
       account-concurrency:
         description: 'Account concurrency'
         required: true
-        default: 32
+        default: 8
         type: number
 
       manifest-concurrency:
