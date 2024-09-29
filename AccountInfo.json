@@ -2,7 +2,7 @@
   "AccountName": "thb112169",
   "AccountPassword": "/v35HEsU2JLE5hcCYG6MPw==",
   "RefreshToken": "tGPjjnHmhaeBgDgvezJitT8yV68RRujjCQjzRf4lXoXHtSa5gLvhtUDGu8g4fjFhrqg3vArp6fhCfIgKmENY3AIkYXixgepv/esWgMDYuJX/m/3E4hqjK5IUHFESblmi+v3CeaUekFDtu+e5FsCS3CW2aX7TynMI6+CRGJa0AEBIttpns1Z2QAS31ZodCiXDKYQIJoGU2p7WpV/JGFjoyFzIpUz+ukgf5mrtWdxNSD9zm5rdQdYFGOJ3/kOx4vfJhh/0g8JWu8gBJHmjbrK02ZZVc8dZ0PLlz1KJCcJUPqDJ1rGavRbKhVAPU7TRL1WO1OozI9gUJDHvNI0dS2LKq7tJHl5ctjADf7jUiEtBAR//Rhh5dWVSjZVf24at3fUVRLqBo8C7YpdFOk84r3utFrzeR9zIHoATJ+SYzlj6VuUZ8answOxKYj/x+UuHrOvRkHdX8jegxTrIY/eQmFs/UNwwHCoBfSz9+IV6RAL4Nl0eG9BAL9bxvf/yiO9p3l9/YHA+TMGl5CekSnVTuRvvTa5n36tHrh+s/pepY5vKwklFSFGrAOsXhbXikbtqX3w2GIJYSDFPFwChNpLTpK/fSy0XU2MpvBIpT5GrIJHWa7sSL3A8Z0IQpciulUTaMmyQY+sYUCUREip3eDetVI7bFQ==",
-  "LastRefresh": "2024-09-29T04:29:34.837147+00:00",
+  "LastRefresh": "2024-09-29T05:27:00.4923994+00:00",
   "Index": "SVAR8-52VE",
   "AesEncrypted": true,
   "AesIV": "pwD016fLI4g4HZyQpjGQDQ==",
@@ -10,10 +10,6 @@
     385080,
     412150,
     526790,
-    621830,
-    1293830,
-    1443081,
-    1644960,
-    2338770
+    1644960
   ]
 }
