@@ -2,7 +2,7 @@
   "AccountName": "gfk6413",
   "AccountPassword": "llLf3K+DwvamkpngCzo3/Q==",
   "RefreshToken": "k69fubkf2RoIjqQyEgLFN4ztu4eYtCHlLsX9E4ZCA4Q2atNZ/pBi8o/U3jBzfHLwSrQLmN0RL8mxJjg2ooAuEVnOasHq4o8zpsZaacE2PzwNs2CjGUR/6iyR2BqmOclUo4BAsZrLQC84WvM8IjULpzb6T/dlZNg5BynycIM4XfQkcLdeaafjXkY8X9SCISJGtxCLWRN6y+PNFlLJpFGIDnS0NHFMJBySqftDqTerNLBF4tITldVXA8eYAKK0IkoY3VkSL1i4/7riS54R2yQWRncw4hvv5OajkSyOtWneMvM69OKfsMslhTNkPtEYmHjTJyuHJ8QY4DL1AgLgCJKIDdToIduQzKIYoLJgbjZ7HfQtuAf/iLZWsvhnrdr0a8Yrb5Y5YE3GFi+tQ5P/jZy/anAmX56caonbvHufZC8JlcnHwR4kSFwVzkDg6KcaY9XbUvxw8o69ZtMWF0Sftz0pQO6O56IwQFnuRPYWeIn+j3PvVCUPIhf+1FuTTsQQzXdtgIGuS17bYNtomPenV6rhrqFc5PI6opTA4gPEvezhcuTaA0YANgOh1VT/HjoGt4c8pr1eIph6Jt0rplrb3VuyejhNwIv1iLivY6QdW2+C7xMDlDCOQH1USmiGTgxA6XkJOh/krVBn78lkt91T4ZRrmw==",
-  "LastRefresh": "2024-09-07T15:24:34.6041899+00:00",
+  "LastRefresh": "2024-09-30T15:37:10.1702608+00:00",
   "Index": "SQXXH-WWXJ",
   "AesEncrypted": true,
   "AesIV": "zWMzKxAgJn0B25srhKZI+A==",
@@ -11,6 +11,7 @@
     2401180,
     2401181,
     2533170,
-    2561880
+    2561880,
+    2721670
   ]
 }
