@@ -2,15 +2,13 @@
   "AccountName": "bebeusz",
   "AccountPassword": "/PGqfswPrczESG4SSN3xfw==",
   "RefreshToken": "/G1O7Se1HCMhw3B92g9EBcE6/oP2nUoXzNZWHZtizaA18MwFEYffEVXXSJ9yskkXwzV6+gOMMNfwpVD/2Ftd2SrazMYXrX0O3L7S+3WWzgh13ObywMwTlGon5u0SBVZMjSLfjCiMgdNs2GFv2N3NJEUF5AgjI5OQSWaUIhK5++vqy8A5HRIb07tnkHwjbQCJj5vDM1tw+izSsarwV0oWsV9imDT4io8O02leNdW5DvCAAA0V83nQh7yLge4GB4O98WY+5VLw7Zut9UrBOAx9k2Mf4drdw8vcumKER7dCr79wVwU47XRlZl5y5GvhW8reGPqswEOuP48ehhACGT84EIerr/ZqUWNRPJua4y8wDiZp33o79RdUDIBUDg+Wzmsp38TMMoTxSVnU0GBtUCqets371PdI1E1slknOPyn6SxhHei5XaRBCAySy1wgNS9zmn8XD9BUfyFH5QSYDM0RnLCHI1b7JMjZKjDft8SvGc9gSZ2gOCLBW1/LLxVV/fnz0BNLeEre7pi+CpM+QsALaM+5UyfwqWon4KuJvN/T1A5zhFaXy5/4yvxy+EqRIC1+Bnr9FyIEbuUTbfT2fMlNjblbskRTvuFM65vAh+p19DdNOAFH+mMhLV7S6h+HacoGWDXbzxeyDaM+iv6KAf2WnLw==",
-  "LastRefresh": "2024-09-09T11:17:15.7101051+00:00",
+  "LastRefresh": "2024-10-01T19:21:52.2975338+00:00",
   "Index": "SCDAW-XNUQ",
   "AesEncrypted": true,
   "AesIV": "XOPma9qbuGK2t7q1uzUFxQ==",
   "AppIds": [
     673450,
     755980,
-    960090,
-    1811260,
-    1827530
+    960090
   ]
 }
