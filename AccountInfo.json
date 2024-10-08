@@ -2,9 +2,11 @@
   "AccountName": "class12p",
   "AccountPassword": "EozpCFVWL8OP4wGI0hnbtg==",
   "RefreshToken": "dH5soxuoOZvDMjfTdS1OiiFYa7DbV1CVkmigTLjADWsS6rPO0S2y0wh5hWev9K/6szUylENJHZLecjlUJCZw6gDAWqOzBK+6HN4H/QU1in5q6Qm9adgAoBWZZ1zaS7ELGLq3LUHis8US2wgy9qIQZf7MDp6QuFOBXto1FoIe8CbYPiXdP7vjAGEkOWARA9Z+eLHoEblGxagEaIv3BmRf+RSf4FYAVzsuudKYLZ34O68dxHgABzX5KIeDKrQasXMhddnZWAwivDz0x5jD9zaWROJmR1srq6ejVqMNAjULLYSr63fnI8gri7DVwmi31AFf3BpvJy/CM31NCk46UobPBvCOsQak7FmGSebWdCWthzXxGy07UQoT6P8rdVxQnb/F/EjNbquS98BmHPBt93DwX3GLRVl9YliN0WMsqOt92aRffXx38qO7EO0RQihHIvMGfS9we3BHAWpDaXx1zWSyfuOkLsKfuCRjXQyFjjynsrkGtK17vxTuX6egrBGQfohl+lsg+2WYD/H/RNBnkYoW/glBuNe+Pkcyoaw3YzbEbcLrXrFmlUWQchm/uxGha4eEGSBIrGUX1IG4mNvBgqnfX11IzFXI0Z6sQpu+GmZovm1m1jCYZ0xlWESlzq7JkoHn0x8IiLy7vE0WOd8/1iOfdA==",
-  "LastRefresh": "2024-09-09T11:45:25.750625+00:00",
+  "LastRefresh": "2024-10-08T16:47:48.9196876+00:00",
   "Index": "SWXLJ-7B5C",
   "AesEncrypted": true,
   "AesIV": "sEny/0en82JNX/RoemNvkg==",
-  "AppIds": []
+  "AppIds": [
+    2679460
+  ]
 }
